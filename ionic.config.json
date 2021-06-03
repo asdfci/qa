@@ -1,0 +1,8 @@
+{
+  "name": "QA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "93d0b326"
+}
